@@ -1,5 +1,5 @@
 # yazi-xml
-a tiny c++ xml library, it's aim at transmiting data. 
+a tiny c++ xml library.
 
 |Author|junping|
 |---|---|
@@ -8,7 +8,7 @@ a tiny c++ xml library, it's aim at transmiting data.
 
 ## Redefine the format of XML document
 
-yazi-xml doesn't support the whole XML standard, it's aim at transfering data just like JSON（Javascript Object Notation）, not aim at presenting data like HTML（HyperText Markup Language）. Because this reason I simplify the XML form.
+yazi-xml doesn't support the whole XML standard, because this reason I simplify the XML form.
 
 ### The well form of XML document
 ```xml
